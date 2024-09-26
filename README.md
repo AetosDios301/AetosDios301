@@ -14,7 +14,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -25,7 +25,7 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 - 💡 Interested in: Artificial Intelligence, Machine Learning, and Software Development
 - ⚡ Fun fact: I can type at the speed of thought (well, almost!)
 
----
+
 
 ## Skills
 
@@ -43,7 +43,7 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 
 </div>
 
----
+
 
 ## Coding Profiles
 
