@@ -51,7 +51,7 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 
 [<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/aetos_dios301)
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/aetosdios_301)
-[<img src="https://img.shields.io/badge/AtCoder-276DC3?style=for-the-badge&logo=AtCoder&logoColor=white" />](https://atcoder.jp/users/AetosDios301)
+[<img src="https://scrapbox.io/icons/AtCoder&logoColor=white" />](https://atcoder.jp/users/AetosDios301)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://www.leetcode.com/aetos_dios301)
 
 </div>
