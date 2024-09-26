@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 ## About Me
 
 I'm passionate about solving complex problems and creating elegant solutions. My journey in tech is driven by curiosity and a constant desire to learn and improve.
@@ -24,8 +22,6 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 - 🌱 Learning: **Advanced C++ for Competitive Programming**
 - 💡 Interested in: Artificial Intelligence, Machine Learning, and Software Development
 - ⚡ Fun fact: I can type at the speed of thought (well, almost!)
-
-
 
 ## Skills
 
@@ -42,8 +38,6 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
-
 
 ## Coding Profiles
 
