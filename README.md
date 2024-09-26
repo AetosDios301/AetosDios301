@@ -54,6 +54,6 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 
 <div align="center">
 
-*"The details are not the details. They make the design." — Charles Eames*
+*"There is nothing impossible to him who will try." — Alexander the Great*
 
 </div>
