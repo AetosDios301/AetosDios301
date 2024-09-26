@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++ for Competitive Programming**
 
-- 📫 How to reach me **pushpendrasinghcs@outlook.com**
+- 📫 How to reach me: **pushpendrasinghcs@outlook.com**
 
 - ⚡ Fun fact: **I can type really fast**
 
