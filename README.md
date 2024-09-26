@@ -1,14 +1,15 @@
 <div align="center">
 
-# Pushpendra Singh
-
-![Profile views](https://komarev.com/ghpvc/?username=aetosdios301&label=Profile%20views&color=0e75b6&style=flat)
+# 👋 Hello, I'm Pushpendra Singh
 
 ### Competitive Programmer | AI-ML Enthusiast | Aspiring Software Developer
 
+📫 pushpendrasinghcs@outlook.com
+
+![Profile views](https://komarev.com/ghpvc/?username=aetosdios301&label=Profile%20views&color=0e75b6&style=flat)
+
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aetosdios301)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pushpendrasinghcs)
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/aetosdios301)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/aetosdios_301)
 
 </div>
@@ -51,6 +52,7 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 [<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/aetos_dios301)
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/aetosdios_301)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://www.leetcode.com/aetos_dios301)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/aetosdios301)
 
 </div>
 
@@ -75,7 +77,5 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 <div align="center">
 
 *"The details are not the details. They make the design." — Charles Eames*
-
-📫 Reach me at: pushpendrasinghcs@outlook.com
 
 </div>
