@@ -60,7 +60,7 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aetosdios301&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
@@ -68,7 +68,7 @@ I'm passionate about solving complex problems and creating elegant solutions. My
   <img src="https://github-readme-stats.vercel.app/api?username=aetosdios301&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aetosdios301&theme=dark" alt="GitHub Streak" />
 </div>
 
