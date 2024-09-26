@@ -53,6 +53,7 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/aetosdios_301)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://www.leetcode.com/aetos_dios301)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://kaggle.com/aetosdios301)
+[<img src="https://img.shields.io/badge/AtCoder-276DC3?style=for-the-badge&logo=AtCoder&logoColor=white" />](https://atcoder.jp/users/AetosDios301)
 
 </div>
 
@@ -60,16 +61,12 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 
 ## GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aetosdios301&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aetosdios301&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</div>
-
-<div align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aetosdios301&theme=dark" alt="GitHub Streak" />
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aetosdios301&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aetosdios301&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aetosdios301&theme=dark" alt="GitHub Streak" />
+  </div>
 </div>
 
 ---
