@@ -50,6 +50,26 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center;">
+
+  <div style="border: 1px solid #ddd; padding: 10px; margin-right: 10px; width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AetosDios301&show_icons=true&theme=dark" alt="GitHub Stats" style="width:100%;">
+  </div>
+
+  <div style="border: 1px solid #ddd; padding: 10px; width: 50%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AetosDios301&theme=dark" alt="GitHub Streak Stats" style="width:100%;">
+  </div>
+
+</div>
+
+<br>
+
+<div align="center" style="border: 1px solid #ddd; padding: 10px; margin-top: 10px; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AetosDios301&layout=compact&theme=dark" alt="Top Languages" style="width: 100%;">
+</div>
+
 ---
 
 <div align="center">
