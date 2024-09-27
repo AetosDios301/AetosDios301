@@ -54,13 +54,13 @@ I'm passionate about solving complex problems and creating elegant solutions. My
 
 <table>
   <tr>
-    <td style="padding: 20px; border: 1px solid #ddd;">
+    <td style="padding: 10px; border: 1px solid #ddd;">
       <img src="https://github-readme-stats.vercel.app/api?username=AetosDios301&show_icons=true&theme=dark" alt="GitHub Stats" width="400px"/>
     </td>
-    <td style="padding: 20px; border: 1px solid #ddd;">
+    <td style="padding: 10px; border: 1px solid #ddd;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AetosDios301&theme=dark" alt="GitHub Streak Stats" width="400px"/>
     </td>
-    <td style="padding: 20px; border: 1px solid #ddd;">
+    <td style="padding: 10px; border: 1px solid #ddd;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AetosDios301&layout=compact&theme=dark" alt="Top Languages" width="300px"/>
     </td>
   </tr>
